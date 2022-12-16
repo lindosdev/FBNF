@@ -5,7 +5,7 @@ guitars and 4-6-String basses.
 
 Fretboard Notes & Frequencies is released under the Released under Attribution-NonCommercial 4.0 International License.
 
-Alternate repo: For releases go here: https://mega.nz/folder/qBcEQDwD#ZBwEBfM3ki_6JwcdRGVfFg
+For releases go here: https://mega.nz/folder/qBcEQDwD#ZBwEBfM3ki_6JwcdRGVfFg
 
 THE FOSS CODE OF CONDUCT
 
