@@ -3,7 +3,7 @@
 int main(void)
 {
 int choice;
-  printf ("Fretboard Notes & Frequencies.\n Copyright C 2010-2022  Gary J. Teixeira Jr.\n\n You can redistribute this program and/or modify\n it under the terms of the Creative Commons\n Attribution-NonCommercial 4.0 International License.\n\n This program is distributed in the hope that it will be useful,\n but WITHOUT ANY WARRANTY without even the implied warranty of\n MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\n You may contact the developer of this program at  ambientmine at protonmail.com\n");
+  printf ("Fretboard Notes & Frequencies.\n Copyright C 2010-2023  Gary J. Teixeira Jr.\n\n You can redistribute this program and/or modify\n it under the terms of the Creative Commons\n Attribution-NonCommercial 4.0 International License.\n\n This program is distributed in the hope that it will be useful,\n but WITHOUT ANY WARRANTY without even the implied warranty of\n MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\n You may contact the developer of this program at  ambientmine at protonmail.com\n");
   printf ("4-String Bass\n\n");
   printf ("1. -12 Frets 2. -11 Frets 3. -10 Frets 4. -9 Frets 5. -8 Frets 6. 9 -7 Frets 7. 10 -6 Frets 8. -5 Frets 9. -4 Frets 10. -3 Frets\n");
   printf ("11. -2 Frets 12. -1 Frets 13. Standard Tuning 14. +1 Fret 15. +2 Frets 16. +3 Frets 17. +4 Frets 18. +5 Frets 19. +6 Frets\n");
