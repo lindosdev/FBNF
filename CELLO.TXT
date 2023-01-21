@@ -1,0 +1,31 @@
+Fretboard Notes and Frequencies
+
+    Copyright (c)  2010-2023 by Gary J. Teixeira Jr.
+    Permission is granted to copy. distribute and/or modify this document
+    under the terms of the Attribution-NonCommercial 4.0 International License
+
+    This book is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+  You may contact the writer of this document at: ambientmine@protonmail.com
+
+Cello
+
+Standard Tuning
+
+    4              3              2              1
+
+0   C3   65.40639  G3   97.99886  D4   146.8324  A5   220
+1   
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
