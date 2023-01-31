@@ -11,6 +11,7 @@ int choice;
   printf ("19. -6 Frets  20. -5 Frets   21. -4 Frets   22. -3 Frets   23. -2 Frets   24. -1 Frets\n");
   printf ("25. Standard Tuning  26. +1 Fret  27. +2 Frets  28. +3 Frets  29. +4 Frets  30. +5 Frets\n");
   printf ("31. +6 Frets  32. +7 Frets  33. +8 Frets  34. +9 Frets  35. +10 Frets  36. +11 Frets\n");
+  printf ("37. +12 Frets 38. +13 Frets 39. +14 Frets 40. +15 Frets 41. +16 Frets  42. +17 Frets\n");
 
 
   printf("Enter choice ");
