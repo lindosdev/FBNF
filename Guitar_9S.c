@@ -7,6 +7,8 @@ int choice;
   printf ("9-String Guitar \n\n");
   printf ("1. -9 Frets  2. -8 Frets  3. -7 Frets  4. -6 Frets  5. -5 Frets  6. -4 Frets\n");
   printf ("7. -3 Frets  8. -2 Frets  9. -1 Frets  10. Standard Tuning  11. +1 Fret\n");
+  printf ("12. +2 Frets  13. +3 Frets  14. +4 Frets  15. +5 Frets  16. +6 Frets  17. +7 Frets\n");
+  printf ("18. +8 Frets  19. +9 Frets  20. +10 Frets  21. +11 Frets  22. +12 Frets  23. +13 Frets\n");
 
 
   printf("Enter choice ");
