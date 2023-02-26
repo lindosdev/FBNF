@@ -5,11 +5,17 @@ int main(void)
 int choice;
   printf ("Fretboard Notes & Frequencies.\n Copyright C 2010-2023  Gary J. Teixeira Jr.\n\n You can redistribute this program and/or modify\n it under the terms of the Creative Commons\n Attribution-NonCommercial 4.0 International License.\n\n This program is distributed in the hope that it will be useful,\n but WITHOUT ANY WARRANTY without even the implied warranty of\n MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\n You may contact the developer of this program at  ambientmine at protonmail.com\n");
   printf ("Double Bass \n\n");
-  printf ("1. -12 Frets  2. -11 Frets 3. -10 Frets 4. -9 Frets 5. -8 Frets 6. -7 Frets 7. -6 Frets\n");
-  printf ("8. -5 Frets   9. -4 Frets 10. -3 Frets 11. -2 Fret 12.-1 Fret  13. Standard Tuning\n");
+  printf ("1. -12 Frets 2. -11 Frets 3. -10 Frets 4. -9 Frets 5. -8 Frets 6. -7 Frets 7. -6 Frets\n");
+  printf ("8. -5 Frets  9. -4 Frets 10. -3 Frets 11. -2 Fret 12.-1 Fret  13. Standard Tuning\n");
   printf ("14. +1 Fret  15. +2 Frets 16. +3 Frets 17. +4 Frets 18. +5 Frets 19. +6 Frets\n");
   printf ("20. +7 Frets 21. +8 Frets 22. +9 Frets 23. +10 Frets 24. +11 Frets 25. +12 Frets\n");
-
+  printf ("26. +13 Frets 27. +14 Frets 28. +15 Frets 29. +16 Frets 30. +17 Frets 31. +18 Frets\n");
+  printf ("32. +19 Frets 33. +20 Frets 34. +21 Frets 35. +22 Frets 36. +23 Frets 37. +24 Frets\n");
+  printf ("38. +25 Frets 39. +26 Frets 40. +27 Frets 41. +28 Frets 42. +29 Frets 43. +30 Frets\n");
+  printf ("44. +31 Frets 45. +32 Frets 46. +33 Frets 47. +34 Frets 48. +35 Frets 49. +36 Frets\n");
+  printf ("50. +37 Frets 51. +38 Frets 52. +39 Frets 53. +40 Frets 54. +41 Frets 55. +42 Frets\n");
+  printf ("56. +43 Frets 57. +44 Frets 58. +45 Frets 59. +46 Frets 60. +47 Frets 61. +48 Frets\n");
+  printf ("62. +49 Frets 63. +50 Frets 64. +51 Frets 65. +52 Frets 66. +53 Frets 67. +54 Frets\n");
 
   printf("Enter choice ");
   scanf ("%d", &choice);
@@ -378,8 +384,6 @@ return 0;
 }
 
 /* MOD HERE */
-
-
 
 +77 Frets
 
