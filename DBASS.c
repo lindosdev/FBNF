@@ -5,10 +5,11 @@ int main(void)
 int choice;
   printf ("Fretboard Notes & Frequencies.\n Copyright C 2010-2023  Gary J. Teixeira Jr.\n\n You can redistribute this program and/or modify\n it under the terms of the Creative Commons\n Attribution-NonCommercial 4.0 International License.\n\n This program is distributed in the hope that it will be useful,\n but WITHOUT ANY WARRANTY without even the implied warranty of\n MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\n You may contact the developer of this program at  ambientmine at protonmail.com\n");
   printf ("Double Bass \n\n");
-  printf ("1. -12 Frets 2. -11 Frets 3. -10 Frets 4. -9 Frets 5. -8 Frets 6. -7 Frets 7. -5 Frets\n");
-  printf ("8. -4 Frets 9. -3 Frets 10. -2 Frets 11. -1 Fret 12. Standard Tuning 12. +1 Fret\n");
-  printf ("13. +2 Frets 14. +3 Frets 15. +4 Frets 16. +5 Frets 17. +6 Frets 18. +7 Frets\n");
-  printf ("19. +8 Frets 20. +9 Frets 21. +10 Frets 22. +11 Frets 23. +12 Frets 24. +13 Frets\n");
+  printf ("1. -12 Frets  2. -11 Frets 3. -10 Frets 4. -9 Frets 5. -8 Frets 6. -7 Frets 7. -5 Frets\n");
+  printf ("8. -4 Frets   9. -3 Frets 10. -2 Frets 11. -1 Fret 12. Standard Tuning 13. +1 Fret\n");
+  /* CHANGE MENU -1 */
+  printf ("13. +2 Frets  14. +3 Frets 15. +4 Frets 16. +5 Frets 17. +6 Frets 18. +7 Frets\n");
+  printf ("19. +8 Frets  20. +9 Frets 21. +10 Frets 22. +11 Frets 23. +12 Frets 24. +13 Frets\n");
   printf ("25. +14 Frets 26. +15 Frets 27. +16 Frets 28. +17 Frets 29. +18 Frets 30. +19 Frets\n");
   printf ("31. +20 Frets 32. +21 Frets 33. +22 Frets 34. +23 Frets 35. +24 Frets 36. +25 Frets\n");
   printf ("37. +26 Frets 38. +27 Frets 39. +28 Frets 40. +29 Frets 41. +30 Frets 42. +31 Frets\n");
@@ -17,6 +18,10 @@ int choice;
   printf ("55. +44 Frets 56. +45 Frets 57. +46 Frets 58. +47 Frets 59. +48 Frets 60. +49 Frets\n");
   printf ("61. +50 Frets 62. +51 Frets 63. +52 Frets 64. +53 Frets 65. +54 Frets 66. +55 Frets\n");
   printf ("67. +56 Frets 68. +57 Frets 69. +58 Frets 70. +59 Frets 71. +60 Frets 72. +61 Frets\n");
+  printf ("73. +62 Frets 74. +63 Frets 75. +64 Frets 76. +65 Frets 77. +66 Frets 78. +67 Frets\n");
+  printf ("79. +68 Frets 80. +69 Frets 81. +70 Frets 82. +71 Frets 83. +72 Frets 84. +73 Frets\n");
+  printf ("85. +74 Frets 86. +75 Frets 87. +76 Frets 88. +77 Frets 89. +78 Frets 90. +79 Frets\n");
+  printf ("91. +80 Frets\n");
 
   printf("Enter choice ");
   scanf ("%d", &choice);
@@ -373,6 +378,10 @@ else if (choice == 88) {
   printf ("+75 Frets\n\n    4              3               2               1\n\n0   G8   3135.963  C9    4186.009  F9    5587.652  Bb10  7458.62\n1   G#8  3322.438  C#9   4434.922  F#9   5919.911  B10   7902.133\n2   A9   3520      D9    4698.636  G9    6271.927  C10   8372.018\n3   Bb9  3729.31   D#9   4978.032  G#9   6644.875  C#10  8869.844\n4   B9   3951.066  E9    5274.041  A10   7040      D10   9397.273\n5   C9   4186.009  F9    5587.652  Bb10  7458.62   D#10  9956.063\n6   C#9  4434.922  F#9   5919.911  B10   7902.133  E10   10548.08\n7   D9   4698.636  G9    6271.927  C10   8372.018  F10   11175.3\n8   D#9  4978.032  G#9   6644.875  C#10  8869.844  F#10  11839.82\n9   E9   5274.041  A10   7040      D10   9397.273  G10   12543.85\n10  F9   5587.652  Bb10  7458.62   D#10  9956.063  G#10  13289.75\n11  F#9  5919.911  B10   7902.133  E10   10548.08  A11   14080\n12  G9   6271.927  C10   8372.018  F10   11175.3   Bb11  14917.24\n");
   printf ("\n");
 }
+else if (choice == 89) {
+  printf ("+76 Frets\n\n    4              3               2               1\n\n0   G#8  3322.438  C#9   4434.922  F#9   5919.911  B10   7902.133\n1   A9   3520      D9    4698.636  G9    6271.927  C10   8372.018\n2   Bb9  3729.31   D#9   4978.032  G#9   6644.875  C#10  8869.844\n3   B9   3951.066  E9    5274.041  A10   7040      D10   9397.273\n4   C9   4186.009  F9    5587.652  Bb10  7458.62   D#10  9956.063\n5   C#9  4434.922  F#9   5919.911  B10   7902.133  E10   10548.08\n6   D9   4698.636  G9    6271.927  C10   8372.018  F10   11175.3\n7   D#9  4978.032  G#9   6644.875  C#10  8869.844  F#10  11839.82\n8   E9   5274.041  A10   7040      D10   9397.273  G10   12543.85\n9   F9   5587.652  Bb10  7458.62   D#10  9956.063  G#10  13289.75\n10  F#9  5919.911  B10   7902.133  E10   10548.08  A11   14080\n11  G9   6271.927  C10   8372.018  F10   11175.3   Bb11  14917.24\n12  G#9  6644.875  C#10  8869.844  F#10  11839.82  B11   15804.27\n");
+  printf ("\n");
+}
 
 else {
   printf("Wrong Number");
@@ -382,23 +391,7 @@ return 0;
 
 /* MOD HERE */
 
-+76 Frets
 
-    4              3               2               1
-
-0   G#8  3322.438  C#9   4434.922  F#9   5919.911  B10   7902.133
-1   A9   3520      D9    4698.636  G9    6271.927  C10   8372.018
-2   Bb9  3729.31   D#9   4978.032  G#9   6644.875  C#10  8869.844
-3   B9   3951.066  E9    5274.041  A10   7040      D10   9397.273
-4   C9   4186.009  F9    5587.652  Bb10  7458.62   D#10  9956.063
-5   C#9  4434.922  F#9   5919.911  B10   7902.133  E10   10548.08
-6   D9   4698.636  G9    6271.927  C10   8372.018  F10   11175.3
-7   D#9  4978.032  G#9   6644.875  C#10  8869.844  F#10  11839.82
-8   E9   5274.041  A10   7040      D10   9397.273  G10   12543.85
-9   F9   5587.652  Bb10  7458.62   D#10  9956.063  G#10  13289.75
-10  F#9  5919.911  B10   7902.133  E10   10548.08  A11   14080
-11  G9   6271.927  C10   8372.018  F10   11175.3   Bb11  14917.24
-12  G#9  6644.875  C#10  8869.844  F#10  11839.82  B11   15804.27
 
 +77 Frets
 
