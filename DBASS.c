@@ -5,23 +5,11 @@ int main(void)
 int choice;
   printf ("Fretboard Notes & Frequencies.\n Copyright C 2010-2023  Gary J. Teixeira Jr.\n\n You can redistribute this program and/or modify\n it under the terms of the Creative Commons\n Attribution-NonCommercial 4.0 International License.\n\n This program is distributed in the hope that it will be useful,\n but WITHOUT ANY WARRANTY without even the implied warranty of\n MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\n You may contact the developer of this program at  ambientmine at protonmail.com\n");
   printf ("Double Bass \n\n");
-  printf ("1. -12 Frets  2. -11 Frets 3. -10 Frets 4. -9 Frets 5. -8 Frets 6. -7 Frets 7. -5 Frets\n");
-  printf ("8. -4 Frets   9. -3 Frets 10. -2 Frets 11. -1 Fret 12. Standard Tuning 13. +1 Fret\n");
-  /* CHANGE MENU -1 */
-  printf ("13. +2 Frets  14. +3 Frets 15. +4 Frets 16. +5 Frets 17. +6 Frets 18. +7 Frets\n");
-  printf ("19. +8 Frets  20. +9 Frets 21. +10 Frets 22. +11 Frets 23. +12 Frets 24. +13 Frets\n");
-  printf ("25. +14 Frets 26. +15 Frets 27. +16 Frets 28. +17 Frets 29. +18 Frets 30. +19 Frets\n");
-  printf ("31. +20 Frets 32. +21 Frets 33. +22 Frets 34. +23 Frets 35. +24 Frets 36. +25 Frets\n");
-  printf ("37. +26 Frets 38. +27 Frets 39. +28 Frets 40. +29 Frets 41. +30 Frets 42. +31 Frets\n");
-  printf ("43. +32 Frets 44. +33 Frets 45. +34 Frets 46. +35 Frets 47. +36 Frets 48. +37 Frets\n");
-  printf ("49. +38 Frets 50. +39 Frets 51. +40 Frets 52. +41 Frets 53. +42 Frets 54. +43 Frets\n");
-  printf ("55. +44 Frets 56. +45 Frets 57. +46 Frets 58. +47 Frets 59. +48 Frets 60. +49 Frets\n");
-  printf ("61. +50 Frets 62. +51 Frets 63. +52 Frets 64. +53 Frets 65. +54 Frets 66. +55 Frets\n");
-  printf ("67. +56 Frets 68. +57 Frets 69. +58 Frets 70. +59 Frets 71. +60 Frets 72. +61 Frets\n");
-  printf ("73. +62 Frets 74. +63 Frets 75. +64 Frets 76. +65 Frets 77. +66 Frets 78. +67 Frets\n");
-  printf ("79. +68 Frets 80. +69 Frets 81. +70 Frets 82. +71 Frets 83. +72 Frets 84. +73 Frets\n");
-  printf ("85. +74 Frets 86. +75 Frets 87. +76 Frets 88. +77 Frets 89. +78 Frets 90. +79 Frets\n");
-  printf ("91. +80 Frets\n");
+  printf ("1. -12 Frets  2. -11 Frets 3. -10 Frets 4. -9 Frets 5. -8 Frets 6. -7 Frets 7. -6 Frets\n");
+  printf ("8. -5 Frets   9. -4 Frets 10. -3 Frets 11. -2 Fret 12.-1 Fret  13. Standard Tuning\n");
+  printf ("14. +1 Fret  15. +2 Frets 16. +3 Frets 17. +4 Frets 18. +5 Frets 19. +6 Frets\n");
+  printf ("20. +7 Frets 21. +8 Frets 22. +9 Frets 23. +10 Frets 24. +11 Frets 25. +12 Frets\n");
+
 
   printf("Enter choice ");
   scanf ("%d", &choice);
