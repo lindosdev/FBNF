@@ -15,6 +15,11 @@ int choice;
   printf ("44. +4 Frets 45. +5 Frets 46. +6 Frets 47. +7 Frets 48. +8 Frets 49. +9 Frets\n");
   printf ("50. +10 Frets 51. +11 Frets 52. +12 Frets 53. +13 Frets 54. +14 Frets 55. +15 Frets\n");
   printf ("56. +16 Frets 57. +17 Frets 58. +18 Frets 59. +19 Frets 60. +20 Frets 61. +21 Frets\n");
+  printf ("62. +22 Frets 63. +23 Frets 64. +24 Frets 65. +25 Frets 66. +26 Frets 67. +27 Frets\n");
+  printf ("68. +28 Frets 69. +29 Frets 70. +30 Frets 71. +31 Frets 72. +32 Frets 73. +33 Frets\n");
+  printf ("74. +34 Frets 75. +35 Frets 76. +36 Frets 77. +37 Frets 78. +38 Frets 79. +39 Frets\n");
+  printf ("80. +40 Frets 81. +41 Frets 82. +42 Frets 83. +43 Frets 84. +44 Frets 85. +45 Frets\n");
+  printf ("86. +46 Frets 87. +47 Frets\n");
 
   printf("Enter choice ");
   scanf ("%d", &choice);
@@ -254,7 +259,8 @@ else if (choice == 58) {
 
 else {
   printf("Wrong Number");
-}  
+}
+
 return 0;
 }
 
