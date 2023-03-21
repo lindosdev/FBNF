@@ -1,11 +1,11 @@
 # FBNF
-  FBNF is a book and a program that provides notes and frequencies for stringed instruments,
+NOTICE: This project will not be updated for a few months while I work on other projects.
+
+FBNF is a book and a program that provides notes and frequencies for stringed instruments,
 based on tuning and number of strings. FBNF currently supports 6-9-string 
 guitars, 4-6-String basses, violin, viola and cello.
 
 Fretboard Notes & Frequencies is released under the Released under Attribution-NonCommercial 4.0 International License.
-
-The program is currently undergoing changes to improve useabliliy. 
 
 For releases go here: https://mega.nz/folder/qBcEQDwD#ZBwEBfM3ki_6JwcdRGVfFg
 
