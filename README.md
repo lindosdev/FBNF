@@ -1,5 +1,4 @@
 # FBNF
-NOTICE: This project will not be updated for a few months while I work on other projects.
 
 FBNF is a book and a program that provides notes and frequencies for stringed instruments,
 based on tuning and number of strings. FBNF currently supports 6-9-string 
