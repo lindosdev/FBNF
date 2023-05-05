@@ -4,11 +4,12 @@ FBNF is a book and a program that provides notes and frequencies for stringed in
 based on tuning and number of strings. FBNF currently supports 6-9-string 
 guitars, 4-6-String basses, violin, viola and cello.
 
+NOTE: In this book/program 440hz is A6, not A4
+
 Fretboard Notes & Frequencies is released under the Released under Attribution-NonCommercial 4.0 International License.
 
 For releases go here: https://mega.nz/folder/qBcEQDwD#ZBwEBfM3ki_6JwcdRGVfFg
 
-Fretboard Notes & Frequencies
 
      DEVELOPMENT ROADMAP
      
