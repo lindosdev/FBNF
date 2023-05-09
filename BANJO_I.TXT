@@ -1,0 +1,22 @@
+Fretboard Notes and Frequencies
+
+    Copyright (c)  2010-2023 by Gary J. Teixeira Jr.
+    Permission is granted to copy. distribute and/or modify this document
+    under the terms of the Attribution-NonCommercial 4.0 International License
+
+    This book is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+  You may contact the writer of this document at: ambientmine AT protonmail DOT com
+
+Tenor Banjo (Irish Tuning) (GDAE) (19 Frets)
+
+Standard Tuning
+
+    4               3               2               1
+
+0   G3   97.99886   D4   146.8324   A5   220        E5   329.6276
+1   G#3  103.8262   D#4  155.5635   Bb5  233.0819   F5   349.2282
+2   A4   110        E4   164.8138   B5   246.9417   F#5  369.9944
+3   Bb4  116.5409   F4   174.6141   C5   261.6256   G5   391.9954
