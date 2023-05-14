@@ -8,9 +8,9 @@ Fretboard Notes and Frequencies
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-  You may contact the writer of this document at: ambientmine AT protonmail DOT com
-
- Banjo (5-string) (G3 D4 G4 B5 D5)
+    You may contact the writer of this document at: ambientmine AT protonmail DOT com
+  
+Banjo (5-string) (G3 D4 G4 B5 D5)
 
 Standard Tuning
 
@@ -29,10 +29,10 @@ Standard Tuning
 10  F4   174.6141   C5   261.6256   F5   349.2282   A6   440        C6   523.2511
 11  F#4  184.9972   C#5  277.1826   F#5  369.9944   Bb6  466.1638   C#6  554.3653
 12  G4   195.9977   D5   293.6648   G5   391.9954   B6   493.8833   D6   587.3295
-13  
-14  
-15  
-16  
-17  
-18  
-19  
+13  G#4  207.6523   D#5  311.127    G#5  415.3047   C6   523.2511   D#6  622.254
+14  A5   220        E5   329.6276   A6   440        C#6  554.3653   E6   659.2551
+15  Bb5  233.0819   F5   349.2282   Bb6  466.1638   D6   587.3295   F6   698.4565
+16  B5   246.9417   F#5  369.9944   B6   493.8833   D#6  622.254    F#4  739.9888
+17  C5   261.6256   G5   391.9954   C6   523.2511   E6   659.2551   G4   783.9909
+18  C#5  277.1826   G#5  415.3047   C#6  554.3653   F6   698.4565   G#4  830.6094
+19  D5   293.6648   A6   440        D6   587.3295   F#6  739.9888   A5   880
