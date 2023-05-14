@@ -1,0 +1,38 @@
+Fretboard Notes and Frequencies
+
+    Copyright (c)  2010-2023 by Gary J. Teixeira Jr.
+    Permission is granted to copy. distribute and/or modify this document
+    under the terms of the Attribution-NonCommercial 4.0 International License
+
+    This book is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+  You may contact the writer of this document at: ambientmine AT protonmail DOT com
+
+ Banjo (5-string) (G3 D4 G4 B5 D5)
+
+Standard Tuning
+
+    5               4               3               2               1
+
+0   G3  97.99886    D4  146.8324    G4  195.9977    B5  246.9417    D5  293.6648
+1   
+2   
+3   
+4   
+5   
+6   
+7   
+8   
+9   
+10  
+11  
+12  
+13  
+14  
+15  
+16  
+17  
+18  
+19  
