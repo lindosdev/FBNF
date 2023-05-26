@@ -10,23 +10,20 @@ Fretboard Notes & Frequencies is released under the Released under Attribution-N
 
 For releases go here: https://mega.nz/folder/qBcEQDwD#ZBwEBfM3ki_6JwcdRGVfFg
 
-
      DEVELOPMENT ROADMAP
-     
-CLI version 3
- Bulgarian Tambura
- Mandolin
- Banjo (4-String, CGDA Tuning)
- Banjo (4-String, CGDE Tuning)
-version 4
- All instruments up to CLI version 3.0 in GUI format
-version 5 (CLI & GUI)
- Banjo (5-string)
- Banjo, Bass (4-string)
- Banjo, Bass (5-string)
- Banjo, Cello (4-string)
- Banjo, Cello (5-string)
- Banjo, Contrabass
+  
+Version 4.25.2
+
+New Instruemnts:  
+  Banjo (5-string) X
+  Banjo, Bass (4-string) 
+  Banjo, Cello (4-string) X
+  Banjo, Cello (5-string) X
+  Banjo, Contrabass
+  
+Fixes:
+  Bass (4-String)
+  Bass (5-String)
  
 
 THE FOSS CODE OF CONDUCT
