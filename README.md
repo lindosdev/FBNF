@@ -1,30 +1,27 @@
 # FBNF
 
 FBNF is a book and a program that provides notes and frequencies for stringed instruments,
-based on tuning and number of strings. FBNF currently supports 6-9-string 
-guitars, 4-6-String basses, violin, viola and cello.
+based on tuning and number of strings. FBNF currently supports 6-9-string
+guitars, 4-6-String basses, violin, viola, cello and various types of banjos.
 
 NOTE: In this book/program 440hz is A6, not A4
 
 Fretboard Notes & Frequencies is released under the Released under Attribution-NonCommercial 4.0 International License.
-
 For releases go here: https://mega.nz/folder/qBcEQDwD#ZBwEBfM3ki_6JwcdRGVfFg
 
-     DEVELOPMENT ROADMAP
-  
-Version 4.25.2
+ DEVELOPMENT ROADMAP
 
-New Instruemnts:  
-  Banjo (5-string) X
-  Banjo, Bass (4-string) 
-  Banjo, Cello (4-string) X
-  Banjo, Cello (5-string) X
-  Banjo, Contrabass
-  
+
+Version 4.25.2
+New Instruemnts:
+Banjo (5-string) X
+Banjo, Bass (4-string)
+Banjo, Cello (4-string) X
+Banjo, Cello (5-string) X
+Banjo, Contrabass
 Fixes:
-  Bass (4-String)
-  Bass (5-String)
- 
+Bass (4-String) X
+Bass (5-String)
 
 THE FOSS CODE OF CONDUCT
 
