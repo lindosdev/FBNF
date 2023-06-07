@@ -7,6 +7,7 @@ guitars, 4-6-String basses, violin, viola, cello and various types of banjos.
 NOTE: In this book/program 440hz is A6, not A4
 
 Fretboard Notes & Frequencies is released under the Released under Attribution-NonCommercial 4.0 International License.
+
 For releases go here: https://mega.nz/folder/qBcEQDwD#ZBwEBfM3ki_6JwcdRGVfFg
 
  DEVELOPMENT ROADMAP
