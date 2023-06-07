@@ -15,13 +15,13 @@ For releases go here: https://mega.nz/folder/qBcEQDwD#ZBwEBfM3ki_6JwcdRGVfFg
 
 Version 4.25.2
 New Instruemnts:
-Banjo (5-string) X
+Banjo (5-string)
 Banjo, Bass (4-string)
-Banjo, Cello (4-string) X
-Banjo, Cello (5-string) X
+Banjo, Cello (4-string)
+Banjo, Cello (5-string)
 Banjo, Contrabass
 Fixes:
-Bass (4-String) X
+Bass (4-String)
 Bass (5-String)
 
 THE FOSS CODE OF CONDUCT
