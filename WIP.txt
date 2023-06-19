@@ -1,1 +1,45 @@
+Fretboard Notes and Frequencies
 
+    Copyright (c)  2010-2023 by Gary J. Teixeira Jr.
+    Permission is granted to copy. distribute and/or modify this document
+    under the terms of the Attribution-NonCommercial 4.0 International License
+
+    This book is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+   You may contact the writer of this document at: ambientmine AT protonmail.com
+
+NOTE: In this book/program 440hz is A6, not A4
+
+Guitar (10 String) F♯3 G♯3 Bb3 C3 E3 A3 D4 G4 B4 E4
+
+Standard Tuning
+
+S   10             9                8                7              6              5              4              3              2              1
+
+0   F#3  92.49861  G#3   103.8262   Bb3   58.27047   C3   65.40639  E3   82.40689  A3   55        D4   146.8325  G4   195.9977  B4   123.4708  E4   164.8138
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
