@@ -14,6 +14,11 @@ For releases go here: https://mega.nz/folder/qBcEQDwD#ZBwEBfM3ki_6JwcdRGVfFg
 
 
 Version 5:
+Version 5
+Guitar, Alto (11 String) B♭2 C3 D3 E♭3 F3 G3 C4 F4 B♭4 D5 G5
+Guitar, Alto (13 String) A2 B♭2 C3 D3 E3 F3 G3 A3 D4 F4 A4 D5 F5
+Guitar, Alto (6 String) B3 E4 A4 D4 F♯5 B5
+Guitar (10 String) F♯3 G♯3 A♯3 C3 E3 A3 D4 G4 B4 E4
 
 THE FOSS CODE OF CONDUCT
 
