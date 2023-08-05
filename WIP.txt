@@ -12,14 +12,14 @@ Fretboard Notes and Frequencies
 
 NOTE: In this book/program 440hz is A6, not A4
 
-Guitar, Alto (13 String) A3 B♭3 C4 D4 E4 F4 G4 A4 D5 F5 A5 D7 F7
+Guitar, Alto (13 String)
 
 Standard Tuning
 
 
-S   13             12               11             10             9              8              7              6              5              4              3              2              1
+S   13              12                11              10              9               8               7               6               5               4               3               2               1
 
-0   
+0   A3   55         Bb3  58.27047     C4  130.8128   D4   146.8324    E4  164.8138    F4   174.6141   G4  195.9977    A4   110        D5   293.6648   F5   349.2282   A5   220        D7   1174.659   F7   1396.913
 1
 2
 3
