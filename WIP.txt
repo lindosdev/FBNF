@@ -8,7 +8,7 @@ Fretboard Notes and Frequencies
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-   You may contact the writer of this document at: ambientmine AT protonmail.com
+   You may contact the writer of this document at: ambientmine AT protonmail DOT com
 
 NOTE: In this book/program 440hz is A6, not A4
 
