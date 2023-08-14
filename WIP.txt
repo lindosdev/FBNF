@@ -12,15 +12,15 @@ Fretboard Notes and Frequencies
 
 NOTE: In this book/program 440hz is A6, not A4
 
-Akkordolia F4 A4 C5 F5
+Akkordolia
 
 STANDARD TUNING
 
 S   4              3              2              1
 
-0   X    X         X    X         X    X         X    X
-1
-2
+0   F4   174.6141  A4   110       C5   261.6256  F5   349.2282
+1   F#4  184.9972  Bb4  116.5409  C#5  277.1826  F#5  369.9944
+2   G4   195.9977  B4   123.4708  #STOP
 3
 4
 5
