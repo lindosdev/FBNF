@@ -9,7 +9,7 @@
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-  You may contact the developer of this program at:  ambientmine@protonmail.com
+  You may contact the developer of this program at:  ambientmine AT protonmail DOT com
 */
 
 #include <stdio.h>
