@@ -1,4 +1,4 @@
-# Fretboard Notes & Frequencies.
+#  Fretboard Notes & Frequencies.
 #  Copyright (C) 2010-2023  Gary J. Teixeira Jr.
 
 #  You can redistribute this program and/or modify
@@ -14,10 +14,24 @@
 # Global Declarations
 SCRIPT=${0##*/} # SCRIPT is the name of this script
 VAR=0 # user's input variable
+# Copyright information
+    printf "%s\n\n" "Fretboard Notes & Frequencies."
+    printf "%s\n\n" "Copyright (C) 2010-2023  Gary J. Teixeira Jr."
 
-printf "\n"
+    printf "%s\n" "You can redistribute this program and/or modify"
+    printf "%s\n" "it under the terms of the Creative Commons"
+    printf "%s\n\n" "Attribution-NonCommercial 4.0 International License."
+   
+    printf "%s\n" "This program is distributed in the hope that it will be useful,"
+    printf "%s\n" "but WITHOUT ANY WARRANTY; without even the implied warranty of"
+    printf "%s\n" "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE."
 
-# Read user input, display output based on code entered
+    printf "%s\n\n" "You may contact the developer of this program at:  ambientmine AT protonmail DOT com"
+
+    # Read user input, display output based on code entered
+    printf "%s\n\n" "6-String Guitar Menu"
+    printf "%s\n" "1. -24 Frets  2.-23 Frets"
+    
 read -p "Please enter code :"  VAR
 printf "\n"  
 if [ "$VAR" =  1 ]
