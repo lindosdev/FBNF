@@ -15,7 +15,10 @@
 SCRIPT=${0##*/} # SCRIPT is the name of this script
 VAR=0 # user's input variable
 # Copyright information
-    printf "%s\n\n" "Fretboard Notes & Frequencies."
+
+    printf "%s\n"   "-----------------------------"   
+    printf "%s\n"   "Fretboard Notes & Frequencies"
+    printf "%s\n\n" "-----------------------------"
     printf "%s\n\n" "Copyright (C) 2010-2023  Gary J. Teixeira Jr."
 
     printf "%s\n" "You can redistribute this program and/or modify"
@@ -24,12 +27,19 @@ VAR=0 # user's input variable
    
     printf "%s\n" "This program is distributed in the hope that it will be useful,"
     printf "%s\n" "but WITHOUT ANY WARRANTY; without even the implied warranty of"
-    printf "%s\n" "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE."
+    printf "%s\n\n" "MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE."
 
     printf "%s\n\n" "You may contact the developer of this program at:  ambientmine AT protonmail DOT com"
 
     # Read user input, display output based on code entered
-    printf "%s\n\n" "6-String Guitar Menu"
+    printf "%s\n" "------------------------------------------------------"
+    printf "%s\n" "**  NOTE: In this book/program 440hz is A6, not A4  **"
+    printf "%s\n\n" "------------------------------------------------------"
+
+    printf "%s\n" "----------------------------"
+    printf "%s\n" "**  6-String Guitar Menu  **"
+    printf "%s\n\n" "----------------------------"
+    
     printf "%s\n" " 1. -24 Frets  21. -4  Frets         41. +16 Frets"
     printf "%s\n" " 2. -23 Frets  22. -3  Frets"
     printf "%s\n" " 3. -22 Frets  23. -2  Frets"
@@ -57,7 +67,10 @@ if [ "$VAR" =  1 ]
 then
     clear
     printf "%s\n" ""
-    printf "%s\n\n" "NOTE: In this book/program 440hz is A6, not A4"
+    printf "%s\n" "------------------------------------------------------"
+    printf "%s\n" "**  NOTE: In this book/program 440hz is A6, not A4  **"
+    printf "%s\n\n" "------------------------------------------------------"
+
 
     printf "%s\n\n" "6-String Guitar"
     printf "%s\n" "-24 Frets"
@@ -92,7 +105,9 @@ elif [ "$VAR" =  2 ]
 then
     clear
     printf "%s\n" ""
-    printf "%s\n\n" "NOTE: In this book/program 440hz is A6, not A4"
+    printf "%s\n" "------------------------------------------------------"
+    printf "%s\n" "**  NOTE: In this book/program 440hz is A6, not A4  **"
+    printf "%s\n\n" "------------------------------------------------------"
 
     printf "%s\n\n" "6-String Guitar"
     
@@ -128,7 +143,9 @@ elif [ "$VAR" =  3 ]
 then
     clear
     printf "%s\n" ""
-    printf "%s\n\n" "NOTE: In this book/program 440hz is A6, not A4"
+    printf "%s\n" "------------------------------------------------------"
+    printf "%s\n" "**  NOTE: In this book/program 440hz is A6, not A4  **"
+    printf "%s\n\n" "------------------------------------------------------"
 
     printf "%s\n\n" "6-String Guitar"
     
@@ -165,7 +182,10 @@ then
 
 # OOPS! (wrong or nonexistent input code)
 else
-    printf "%s\n" "TEXT"
+    printf "%s\n" "--------------"
+    printf "%s\n" "**   ERROR  **"
+    printf "%s\n" "--------------"   
+    printf "%s\n" "Invalid Choice"
 fi
     
 # Cleanup
