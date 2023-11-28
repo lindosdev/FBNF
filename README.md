@@ -10,15 +10,23 @@ Fretboard Notes & Frequencies is released under the Released under Attribution-N
 
 For releases go here: https://mega.nz/folder/qBcEQDwD#ZBwEBfM3ki_6JwcdRGVfFg
 
- DEVELOPMENT ROADMAP
 
+Fretboard Notes & Frequencies
 
-Version 5:
-Version 5
-Guitar, Alto (11 String) B♭2 C3 D3 E♭3 F3 G3 C4 F4 B♭4 D5 G5
-Guitar, Alto (13 String) A2 B♭2 C3 D3 E3 F3 G3 A3 D4 F4 A4 D5 F5
-Guitar, Alto (6 String) B3 E4 A4 D4 F♯5 B5
-Guitar (10 String) F♯3 G♯3 A♯3 C3 E3 A3 D4 G4 B4 E4
+     DEVELOPMENT ROADMAP
+     
+     Program Development has stopped for a while. I will bew focusing on the book for 
+     the forseeable future. 
+     											    
+Version 7 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+	6-String Bass (BEADGE)  (DONE)
+	Archlute (F1 F2 G1 G2 A1 A2 B1 B2 C2 C3 D2 D3 E2 E3 F2 F3 G2 G2 C2 C2 F3 F3 A3 A3 D4 D4 G4) (WIP)
+	Armonico (E3 A3 D4 G4 G4 B3 E4)
+	Arpeggione (Tuning is same as guitar.) (DONE)
+	Autoharp (F2 G2 C3 D3 E3 F3 F♯3 G3 A3 A♯3 B3 C4 C♯4 D4 D♯4 E4 F4 F♯4 G4 G♯4 A4 A♯4 B4 C5 C♯5 D5 D♯5 E5 F5 F♯5 G5 G♯5 A5 A♯5 B5 C6)
+	Baglama (G2 G3 D3 D3 A2 A3 A3)
+	Baglamas (D4 D5 A4 A4 D5 D5)
+
 
 THE FOSS CODE OF CONDUCT
 
