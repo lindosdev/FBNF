@@ -2,7 +2,7 @@
 
 FBNF is a book and a program that provides notes and frequencies for stringed instruments,
 based on tuning and number of strings. FBNF currently supports 6-9-string
-guitars, 4-6-String basses, violin, viola, cello and various types of banjos.
+guitars, 4-6-String basses, violin, viola, cello, various types of banjos and other instruments.
 
 NOTE: In this book/program 440hz is A6, not A4
 
@@ -17,15 +17,15 @@ Fretboard Notes & Frequencies
      
      Program Development has stopped for a while. I will bew focusing on the book for 
      the forseeable future. 
-     											    
-Version 7 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
-	6-String Bass (BEADGE)  (DONE)
-	Archlute (F1 F2 G1 G2 A1 A2 B1 B2 C2 C3 D2 D3 E2 E3 F2 F3 G2 G2 C2 C2 F3 F3 A3 A3 D4 D4 G4) (WIP)
-	Armonico (E3 A3 D4 G4 G4 B3 E4)
-	Arpeggione (Tuning is same as guitar.) (DONE)
-	Autoharp (F2 G2 C3 D3 E3 F3 F♯3 G3 A3 A♯3 B3 C4 C♯4 D4 D♯4 E4 F4 F♯4 G4 G♯4 A4 A♯4 B4 C5 C♯5 D5 D♯5 E5 F5 F♯5 G5 G♯5 A5 A♯5 B5 C6)
-	Baglama (G2 G3 D3 D3 A2 A3 A3)
-	Baglamas (D4 D5 A4 A4 D5 D5)
+
+        Version 8 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+	Bajo quinto (A2 A1 D3 D2 G2 G2 C3 C3 F3 F3) (Work In Progress)
+	Bajo Sexto (Standard) (E2 E1 A2 A1 D3 D2 G2 G2 C3 C3 F3 F3)
+	Bajo Sexto (Guitar) (E2 E1 A2 A1 D3 D2 G2 G2 B2 B2 E3 E3)
+	Balalaika (Alto) (E3 E3 A3)
+	Balalaika (Bass, Standard) (E2 A2 D3)
+	Balalaika (Bass, Old Orchestral) (E1 A1 E2) 
+
 
 
 THE FOSS CODE OF CONDUCT
