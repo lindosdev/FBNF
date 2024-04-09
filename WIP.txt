@@ -12,13 +12,13 @@ Fretboard Notes and Frequencies
 
 NOTE: In this book/program 440hz is A6, not A4
 
-Bajo Sexto (Standard) (E2 E1 A2 A1 D3 D2 G2 G2 C3 C3 F3 F3) (Change to Chart)
+Bajo Sexto (Standard)
 
 Standard Tuning
 
-S   1               2               3               4               5               6               7               8               9               10
+S   1               2               3               4               5               6               7               8               9               10               11               12
 
-0   
+0   E3              E2              A4              A3              D4              D3              G3              G3              C4              C4               F4               F4
 1   
 2
 3
