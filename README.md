@@ -15,16 +15,26 @@ Fretboard Notes & Frequencies
 
      DEVELOPMENT ROADMAP
      
-     Program Development has stopped for a while. I will bew focusing on the book for 
+
+     Program Development has stopped for a while. I will be focusing on the book for 
      the forseeable future. 
 
-        Version 8 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
-	Bajo quinto (A2 A1 D3 D2 G2 G2 C3 C3 F3 F3) (Work In Progress)
-	Bajo Sexto (Standard) (E2 E1 A2 A1 D3 D2 G2 G2 C3 C3 F3 F3)
-	Bajo Sexto (Guitar) (E2 E1 A2 A1 D3 D2 G2 G2 B2 B2 E3 E3)
-	Balalaika (Alto) (E3 E3 A3)
-	Balalaika (Bass, Standard) (E2 A2 D3)
-	Balalaika (Bass, Old Orchestral) (E1 A1 E2) 
+Version 9 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+
+	Balalaika (Contrabass, Standard) (E1 A1 D2)
+	Balalaika (Contrabass, Old Orchestra) (E1 A1 E2)
+	Balalaika (Descant) (E5 E5 A5)
+	Balalaika (Piccolo, Standard) (B4 E5 A5)
+	Balalaika (Piccolo, Old Orchestral) (E4 A4 E5)
+	
+Version 10 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+
+	Balalaika (Prima, Standard) (E4 E4 A4)
+	Balalaika (Prima, Folk) (C4 E4 G4)
+	Balalaika (Prima, Russian Guitar) (G3 B3 D4)
+	Balalaika (Prima, 6-String) (E4 E4 E4 E4 A4 A4)
+	Balalaika (Prima, 6-String, Folk) (C4 C4 E4 E4 G4  G4)
+	Balalaika (Prima, 6-String, Russian Guitar) (G3 G3 B3 B3 D4 D4)	
 
 
 
