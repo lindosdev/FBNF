@@ -21,9 +21,9 @@ Fretboard Notes & Frequencies
 
 Version 9 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 
-	Balalaika (Contrabass, Standard) (E1 A1 D2)
-	Balalaika (Contrabass, Old Orchestra) (E1 A1 E2)
-	Balalaika (Descant) (E5 E5 A5)
+	Balalaika (Contrabass, Standard) (DONE)
+	Balalaika (Contrabass, Old Orchestra) (DONE)
+	Balalaika (Descant) (WIP)
 	Balalaika (Piccolo, Standard) (B4 E5 A5)
 	Balalaika (Piccolo, Old Orchestral) (E4 A4 E5)
 	
