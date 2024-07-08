@@ -12,13 +12,13 @@ Fretboard Notes and Frequencies
 
 NOTE: In this book/program 440hz is A6, not A4
 
-Balalaika (Piccolo, Standard) (B4 E5 A5) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+Balalaika (Piccolo, Standard)
 
 Standard Tuning
 S   1               2               3
 
-0   x   x           x   x           x   x
-1
+0   B6   493.8833   E6   659.2551   A7   880
+1   C6   523.2511   F6   698.4565   Bb7  932.3275
 2
 3
 4
