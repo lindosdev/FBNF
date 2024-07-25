@@ -23,7 +23,29 @@ Version 10 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	Balalaika (Prima, Russian Guitar) (G3 B3 D4)
 	Balalaika (Prima, 6-String) (E4 E4 E4 E4 A4 A4)
 	Balalaika (Prima, 6-String, Folk) (C4 C4 E4 E4 G4  G4)
-	Balalaika (Prima, 6-String, Russian Guitar) (G3 G3 B3 B3 D4 D4)	
+	Balalaika (Prima, 6-String, Russian Guitar) (G3 G3 B3 B3 D4 D4)
+
+Before work on Version 11:
+	Debugging
+	Modify and check files for DOS compatability
+
+Version 11 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+
+	Balalaika (Secunda) (A3 A3 D)
+	Balalaika (Tenor) (A2 A2 D3)
+	Bandola (Andina Colombiana) (F#3 F#3 B3 B3 E4 E4 E4 A4 A4 A4 D5 D5 D5 G5 G5 G5)
+	Bandola (Llanera) (A2 D3 A3 E4)
+	Bandola (Oriental) (G3 G3 D4 D4 A4 A4 E5 E5)
+	Bandolin (E5 E4 E5 A5 A4 A5 D5 D5 D5 F#5 F#5 F#5 B5 B5 B5)
+
+Version 12 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+
+	Bandurria (Philippine) (F#3 B3 B3 E4 E4 A4 A4 A4 D5 D5 D5 G5 G5 G5)
+	Bandurria (Spanish) (G#3 G#3 C#4 C#4 F#4 F#4 B4 B4 E5 E5 A5 A5)
+	Banjolele (Standard) (G4 C4 E4 A4)
+	Banjolele (Alternate, Traditional) (A4 D4 F#4 B4)
+	Banjolele (Standard, Baritone) (D3  G3  B3  E4)
+	Banjolin (G3 D4 A4 E5)
 
 THE FOSS CODE OF CONDUCT
 
