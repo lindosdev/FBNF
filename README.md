@@ -8,24 +8,13 @@ NOTE: In this book/program 440hz is A6, not A4
 
 Fretboard Notes & Frequencies is released under the Released under Attribution-NonCommercial 4.0 International License.
 
-For releases go here: https://mega.nz/folder/qBcEQDwD#ZBwEBfM3ki_6JwcdRGVfFg
-
 
 Fretboard Notes & Frequencies
 
      DEVELOPMENT ROADMAP
-     
 
      Program Development has stopped for a while. I will be focusing on the book for 
      the forseeable future. 
-
-Version 9 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
-
-	Balalaika (Contrabass, Standard) (DONE)
-	Balalaika (Contrabass, Old Orchestra) (DONE)
-	Balalaika (Descant) (WIP)
-	Balalaika (Piccolo, Standard) (B4 E5 A5)
-	Balalaika (Piccolo, Old Orchestral) (E4 A4 E5)
 	
 Version 10 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 
@@ -35,8 +24,6 @@ Version 10 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	Balalaika (Prima, 6-String) (E4 E4 E4 E4 A4 A4)
 	Balalaika (Prima, 6-String, Folk) (C4 C4 E4 E4 G4  G4)
 	Balalaika (Prima, 6-String, Russian Guitar) (G3 G3 B3 B3 D4 D4)	
-
-
 
 THE FOSS CODE OF CONDUCT
 
