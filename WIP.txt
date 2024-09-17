@@ -12,12 +12,12 @@ Fretboard Notes and Frequencies
 
 NOTE: In this book/program 440hz is A6, not A4
 
-Balalaika (Prima, 6-String, Russian Guitar) (G3 G3 B3 B3 D4 D4) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+Balalaika (Prima, 6-String, Russian Guitar)
 
 Standard Tuning
 S   1              2              3              4              5              6
 
-0   X   X          X   X          X  X           X  X           X  X           X  X
+0   G4   195.9977  G4   195.9977  B5  246.9417   B5  246.9417   D5  293.6648   D5  293.6648
 1
 2
 3
