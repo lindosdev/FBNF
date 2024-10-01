@@ -14,20 +14,7 @@ Fretboard Notes & Frequencies
      DEVELOPMENT ROADMAP
 
      Program Development has stopped for a while. I will be focusing on the book for 
-     the forseeable future. 
-	
-Version 10 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
-
-	Balalaika (Prima, Standard) (E4 E4 A4)
-	Balalaika (Prima, Folk) (C4 E4 G4)
-	Balalaika (Prima, Russian Guitar) (G3 B3 D4)
-	Balalaika (Prima, 6-String) (E4 E4 E4 E4 A4 A4)
-	Balalaika (Prima, 6-String, Folk) (C4 C4 E4 E4 G4  G4)
-	Balalaika (Prima, 6-String, Russian Guitar) (G3 G3 B3 B3 D4 D4)
-
-Before work on Version 11:
-	Debugging
-	Modify and check files for DOS compatability
+     the forseeable future.
 
 Version 11 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 
