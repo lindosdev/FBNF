@@ -12,8 +12,8 @@ Fretboard Notes and Frequencies
 
 NOTE: In this book/program 440hz is A6, not A4
 
-Bandola (Andina Colombiana) (G5 G5 G5) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
-# 16 STRINGS 21 FRETS
+Bandola (Andina Colombiana)
+
 Standard Tuning
 S   1                2                3               4               5               6               7               8               9               10              11              12              13              14              15              16
 
