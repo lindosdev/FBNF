@@ -18,9 +18,9 @@ Fretboard Notes & Frequencies
 
 Version 11 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 
-	Balalaika (Secunda) (A3 A3 D)
-	Balalaika (Tenor) (A2 A2 D3)
-	Bandola (Andina Colombiana) (F#3 F#3 B3 B3 E4 E4 E4 A4 A4 A4 D5 D5 D5 G5 G5 G5)
+	Balalaika (Secunda) (A3 A3 D) (DONE)
+	Balalaika (Tenor) (A2 A2 D3) (DONE)
+	Bandola (Andina Colombiana) (F#3 F#3 B3 B3 E4 E4 E4 A4 A4 A4 D5 D5 D5 G5 G5 G5) (WIP)
 	Bandola (Llanera) (A2 D3 A3 E4)
 	Bandola (Oriental) (G3 G3 D4 D4 A4 A4 E5 E5)
 	Bandolin (E5 E4 E5 A5 A4 A5 D5 D5 D5 F#5 F#5 F#5 B5 B5 B5)
