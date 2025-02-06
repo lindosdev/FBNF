@@ -12,12 +12,12 @@ Fretboard Notes and Frequencies
 
 NOTE: In this book/program 440hz is A6, not A4
 
-Bandurria (Philippine) (F#3 B3 B3 E4 E4 A4 A4 A4 D5 D5 D5 G5 G5 G5) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+Bandurria (Philippine)
 
 Standard Tuning
 S   1              2              3              4              5              6              7              8              9              10             11             12             13             14
 
-0
+0   F#4  184.9972  B5   246.9417  B5   246.9417  E5   329.6276  E5   329.6276  A6   440       A6   440       A6   440       D6   587.3295  D6   587.3295  D6   587.3295  G6   783.9909  G6   783.9909  G6   783.9909
 1
 2
 3
