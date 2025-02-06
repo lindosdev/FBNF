@@ -8,12 +8,11 @@ NOTE: In this book/program 440hz is A6, not A4
 
 Fretboard Notes & Frequencies is released under the Released under Attribution-NonCommercial 4.0 International License.
 
-
 Fretboard Notes & Frequencies
 
      DEVELOPMENT ROADMAP
-
-     Program Development has stopped for a while. I will be focusing on the book for 
+     
+     Program Development has stopped for a while. I will be focusing on the book for
      the forseeable future.
 
 Version 13 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
@@ -27,13 +26,26 @@ Version 13 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 
 Version 14 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 
-Banjo, Plectrum C3 G3 B3 D
-Banjo, Plectrum (Chicago Tuning) D3 G3 B3 E4
-Baryton (Bowed rank) A1 D2 G3 C3 E3 A3 D4
-Baryton (Plucked rank) A2 D3 E3 F#3 G3 A3 B3 C#3 D4 E4
-Brac, 5 string (Standard/Common) E3 A3 D4 G4 G4
-Brac, 5 string (Alternate) (F#3 B3 E4 A4 A4
-Brac, 6 string G3 G3 D4 D4 A4 A4
+	Banjo, Plectrum C3 G3 B3 D
+	Banjo, Plectrum (Chicago Tuning) D3 G3 B3 E4
+	Baryton (Bowed rank) A1 D2 G3 C3 E3 A3 D4
+	Baryton (Plucked rank) A2 D3 E3 F#3 G3 A3 B3 C#3 D4 E4
+	Brac, 5 string (Standard/Common) E3 A3 D4 G4 G4
+	Brac, 5 string (Alternate) (F#3 B3 E4 A4 A4
+	Brac, 6 string G3 G3 D4 D4 A4 A4
+
+Version 15 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+	
+	Biscernica, 5 string C#3 F#3 B3 E4 E4
+	Biscernica, 6 string E3 A3 D4 D4 G4 G4
+	Bordonua A2 A3 D4 D3 F#3 F#4 B3 B3 E4 E4
+	Bouzouki, 8 string C3 C4 F3 F4 A3 A3 D4 D4
+	Bouzouki, 6 string D3 D4 A3 A3 D4 D4
+	Bouzouki, Irish (Standard/Common) G3 G2 D4 D3 A3 A3 E4 E4
+	Bouzouki, Irish (Mandolin) G2 G2 D3 D3 A3 A3 E4 E4
+	Bouzouki, Irish (Irish) G3 G2 D4 D3 A3 A3 D4 D4
+	Bouzouki, Irish (Modal D) A3 A2 D4 D3 A3 A3 D4 D4
+
 
 THE FOSS CODE OF CONDUCT
 
