@@ -25,6 +25,16 @@ Version 13 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	Banjolele (Standard, Baritone) (D3  G3  B3  E4)
 	Banjolin (G3 D4 A4 E5)
 
+Version 14 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+
+Banjo, Plectrum C3 G3 B3 D
+Banjo, Plectrum (Chicago Tuning) D3 G3 B3 E4
+Baryton (Bowed rank) A1 D2 G3 C3 E3 A3 D4
+Baryton (Plucked rank) A2 D3 E3 F#3 G3 A3 B3 C#3 D4 E4
+Brac, 5 string (Standard/Common) E3 A3 D4 G4 G4
+Brac, 5 string (Alternate) (F#3 B3 E4 A4 A4
+Brac, 6 string G3 G3 D4 D4 A4 A4
+
 THE FOSS CODE OF CONDUCT
 
   VERSION: 1.0
