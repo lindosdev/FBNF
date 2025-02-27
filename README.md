@@ -17,8 +17,8 @@ Fretboard Notes & Frequencies
 
 Version 13 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 
-	Bandurria (Philippine) (F#3 B3 B3 E4 E4 A4 A4 A4 D5 D5 D5 G5 G5 G5)
-	Bandurria (Spanish) (G#3 G#3 C#4 C#4 F#4 F#4 B4 B4 E5 E5 A5 A5)
+	Bandurria (Philippine) (F#3 B3 B3 E4 E4 A4 A4 A4 D5 D5 D5 G5 G5 G5) (DONE)
+	Bandurria (Spanish) (G#3 G#3 C#4 C#4 F#4 F#4 B4 B4 E5 E5 A5 A5) (WIP)
 	Banjolele (Standard) (G4 C4 E4 A4)
 	Banjolele (Alternate, Traditional) (A4 D4 F#4 B4)
 	Banjolele (Standard, Baritone) (D3  G3  B3  E4)
@@ -45,6 +45,7 @@ Version 15 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	Bouzouki, Irish (Mandolin) G2 G2 D3 D3 A3 A3 E4 E4
 	Bouzouki, Irish (Irish) G3 G2 D4 D3 A3 A3 D4 D4
 	Bouzouki, Irish (Modal D) A3 A2 D4 D3 A3 A3 D4 D4
+
 
 
 THE FOSS CODE OF CONDUCT
