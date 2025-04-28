@@ -19,8 +19,8 @@ Version 13 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 
 	Bandurria (Philippine) (F#3 B3 B3 E4 E4 A4 A4 A4 D5 D5 D5 G5 G5 G5) (DONE)
 	Bandurria (Spanish) (G#3 G#3 C#4 C#4 F#4 F#4 B4 B4 E5 E5 A5 A5) (DONE)
-	Banjolele (Standard) (G4 C4 E4 A4) (WIP)
-	Banjolele (Alternate, Traditional) (A4 D4 F#4 B4)
+	Banjolele (Standard) (G4 C4 E4 A4) (DONE)
+	Banjolele (Alternate, Traditional) (A4 D4 F#4 B4) (WIP)
 	Banjolele (Standard, Baritone) (D3  G3  B3  E4)
 	Banjolin (G3 D4 A4 E5)
 
