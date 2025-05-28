@@ -12,13 +12,13 @@ Fretboard Notes and Frequencies
 
 NOTE: In this book/program 440hz is A6, not A4
 
-Banjolele (Standard, Baritone) (D3  G3  B3  E4) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+Banjolele (Standard, Baritone)
 
 Standard Tuning
 
-S   1              2              3              4
+S   1               2                3               4
 
-0   XX   XX  A2    XX   XX        XX   XX        XX   XX
+0   D4   146.8324   G4   195.9977    B5   246.9417   E5   349.2282
 1
 2
 3
