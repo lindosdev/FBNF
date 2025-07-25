@@ -1,1 +1,36 @@
+Fretboard Notes and Frequencies
+
+    Copyright (c)  2010-2025 by Gary J. Teixeira Jr.
+    Permission is granted to copy. distribute and/or modify this document
+    under the terms of the Attribution-NonCommercial 4.0 International License
+
+    This book is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+   You may contact the writer of this document at: ambientmine AT protonmail DOT com
+
+NOTE: In this book/program 440hz is A6, not A4
+
+Biscernica, 5 string C#3 F#3 B3 E4 E4 (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+
+Standard Tuning
+ 
+S   1              2              3              4              5
+
+0   
+1   
+2   
+3   
+4   
+5   
+6   
+7   
+8   
+9   
+10  
+11  
+12  
+13  
+14  
 
