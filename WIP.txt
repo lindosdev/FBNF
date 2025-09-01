@@ -17,7 +17,7 @@ Biscernica, 6 string E3 A3 D4 D4 G4 G4 (TUNINGS NOT YET CONVERTED TO REFERENCE C
 Standard Tuning
 S   1              2              3              4              5               6
 
-0   XXX  XXX       XXX  XXX       XXX  XXX       XXX  XXX       XXX  XXX        XXX  XXX
+0   E4   164.8138  A5   220       D5   293.6648  D5   293.6648  G5   391.9954   G5   391.9954
 1   
 2   
 3   
