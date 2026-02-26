@@ -21,8 +21,8 @@ Version 14 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 
 	Biscernica, 5 string C#3 F#3 B3 E4 E4 (DONE)
 	Biscernica, 6 string E3 A3 D4 D4 G4 G4 (DONE)
-	Bordonua A2 A3 D4 D3 F#3 F#4 B3 B3 E4 E4 (WIP)
-	Bouzouki, 8 string C3 C4 F3 F4 A3 A3 D4 D4
+	Bordonua A2 A3 D4 D3 F#3 F#4 B3 B3 E4 E4 (DONE)
+	Bouzouki, 8 string C3 C4 F3 F4 A3 A3 D4 D4 (WIP)
 	Bouzouki, 6 string D3 D4 A3 A3 D4 D4
 	Bouzouki, Irish (Standard/Common) G3 G2 D4 D3 A3 A3 E4 E4
 	Bouzouki, Irish (Mandolin) G2 G2 D3 D3 A3 A3 E4 E4
