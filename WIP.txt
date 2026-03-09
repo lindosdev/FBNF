@@ -1,1 +1,45 @@
+Fretboard Notes and Frequencies
 
+    Copyright (c)  2010-2026 by Gary J. Teixeira Jr.
+    Permission is granted to copy. distribute and/or modify this document
+    under the terms of the Attribution-NonCommercial 4.0 International License
+
+    This book is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+   You may contact the writer of this document at: ambientmine AT protonmail DOT com
+
+NOTE: In this book/program 440hz is A6, not A4
+
+Bouzouki, 6 string D3 D4 A3 A3 D4 D4 (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+
+STANDARD TUNING
+
+S    1               2               3              4               5               6
+
+0    D4   146.8324   D5   293.6648   A5   220       A5   220        D5   293.6648   D5   293.6648
+1    D#4  155.5635   D#5  311.127    Bb5  233.0819  Bb5  233.0819   D#5  311.127    D#5  311.127
+2    E4   164.8138   E5   329.6276   B5   246.9417  B5   246.9417   E5   329.6276   E5   329.6276
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
