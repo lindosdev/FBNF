@@ -1,13 +1,5 @@
 # FBNF
 
-FBNF is a book and a program that provides notes and frequencies for stringed instruments,
-based on tuning and number of strings. FBNF currently supports 6-9-string
-guitars, 4-6-String basses, violin, viola, cello, various types of banjos and other instruments.
-
-NOTE: In this book/program 440hz is A6, not A4
-
-Fretboard Notes & Frequencies is released under the Released under Attribution-NonCommercial 4.0 International License.
-
 Fretboard Notes & Frequencies
 
      DEVELOPMENT ROADMAP
@@ -15,15 +7,13 @@ Fretboard Notes & Frequencies
      Program Development has stopped for a while. I will be focusing on the book for
      the forseeable future.
 
-Version 13.5 has been released. This includes parts of Version 14 and updates to copyright dates.
-
 Version 14 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 
 	Biscernica, 5 string C#3 F#3 B3 E4 E4 (DONE)
 	Biscernica, 6 string E3 A3 D4 D4 G4 G4 (DONE)
-	Bordonua A2 A3 D4 D3 F#3 F#4 B3 B3 E4 E4 (DONE)
-	Bouzouki, 8 string C3 C4 F3 F4 A3 A3 D4 D4 (WIP)
-	Bouzouki, 6 string D3 D4 A3 A3 D4 D4
+	Bordonua (10-String) A2 A3 D4 D3 F#3 F#4 B3 B3 E4 E4 (DONE)
+	Bouzouki, 8 string C3 C4 F3 F4 A3 A3 D4 D4 (DONE)
+	Bouzouki, 6 string D3 D4 A3 A3 D4 D4 (WIP)
 	Bouzouki, Irish (Standard/Common) G3 G2 D4 D3 A3 A3 E4 E4
 	Bouzouki, Irish (Mandolin) G2 G2 D3 D3 A3 A3 E4 E4
 	Bouzouki, Irish (Irish) G3 G2 D4 D3 A3 A3 D4 D4
@@ -38,6 +28,7 @@ Version 15 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	Brac, 5 string (Standard/Common) E3 A3 D4 G4 G4
 	Brac, 5 string (Alternate) (F#3 B3 E4 A4 A4
 	Brac, 6 string G3 G3 D4 D4 A4 A4
+
 
 Attribution-NonCommercial 4.0 International
 
