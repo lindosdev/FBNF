@@ -2,18 +2,22 @@
 
 Fretboard Notes & Frequencies
 
-     DEVELOPMENT ROADMAP
+    DEVELOPMENT ROADMAP
      
-     Program Development has stopped for a while. I will be focusing on the book for
-     the forseeable future.
+    Program Development has stopped for a while. I will be focusing on the book for
+    the forseeable future.
+
+	Starting with V14, there will be folders for files with Windows and *nix/Mac 
+	line endings. There will also be a folder for DOS-formatted files. The DOS folder
+	will not be up-to-date with the rest.
 
 Version 14 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 
 	Biscernica, 5 string C#3 F#3 B3 E4 E4 (DONE)
 	Biscernica, 6 string E3 A3 D4 D4 G4 G4 (DONE)
 	Bordonua (10-String) A2 A3 D4 D3 F#3 F#4 B3 B3 E4 E4 (DONE)
-	Bouzouki, 6 string D3 D4 A3 A3 D4 D4 (DONE)
 	Bouzouki, 8 string C3 C4 F3 F4 A3 A3 D4 D4 (WIP)
+	Bouzouki, 6 string D3 D4 A3 A3 D4 D4 (DONE)
 	Bouzouki, Irish (Standard/Common) G3 G2 D4 D3 A3 A3 E4 E4
 	Bouzouki, Irish (Mandolin) G2 G2 D3 D3 A3 A3 E4 E4
 	Bouzouki, Irish (Irish) G3 G2 D4 D3 A3 A3 D4 D4
@@ -28,7 +32,6 @@ Version 15 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	Brac, 5 string (Standard/Common) E3 A3 D4 G4 G4
 	Brac, 5 string (Alternate) (F#3 B3 E4 A4 A4
 	Brac, 6 string G3 G3 D4 D4 A4 A4
-
 
 Attribution-NonCommercial 4.0 International
 
