@@ -12,12 +12,12 @@ Fretboard Notes and Frequencies
 
 NOTE: In this book/program 440hz is A6, not A4
 
-Bouzouki, Irish (Standard/Common) G3 G2 D4 D3 A3 A3 E4 E4 (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+Bouzouki, Irish (Standard/Common)
 
 STANDARD TUNING
 S    1               2               3               4               5               6               7               8
 
-0    XX   XX         XX   XX         XX   XX         XX   XX         XX   XX         XX   XX         XX   XX         XX   XX
+0    G4   195.9977   G3   97.99886   D5   293.6648   D4   146.8324   A4   220        A4   220        E5   329.6276   E5   329.6276
 1
 2
 3
