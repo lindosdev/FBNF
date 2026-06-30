@@ -10,12 +10,12 @@ Fretboard Notes and Frequencies
 
 NOTE: In this book/program 440hz is A6, not A4
 
-Bouzouki, Irish (Mandolin) G2 G2 D3 D3 A3 A3 E4 E4 (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+Bouzouki, Irish (Mandolin)
 
 STANDARD TUNING
 S    1               2               3               4               5               6               7               8
 
-0    XX   X          XX   X          XX   X          XX   X          XX  X           XX  X           XX  X           XX  X
+0    G3   97.99943   G3   97.99943   D4   146.8324   D4   146.8324   A5  220         A5  220         E5  329.6276    E5  329.6276
 1    
 2    
 3    
