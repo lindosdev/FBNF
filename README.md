@@ -23,8 +23,8 @@ Version 14 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	Bouzouki, 6 string D3 D4 A3 A3 D4 D4 (DONE)
 	Bouzouki, 8 string C3 C4 F3 F4 A3 A3 D4 D4 (DONE)
 	Bouzouki, Irish (Standard/Common) G3 G2 D4 D3 A3 A3 E4 E4 (DONE)
-	Bouzouki, Irish (Mandolin) G2 G2 D3 D3 A3 A3 E4 E4 (DONE)
-	Bouzouki, Irish (Irish) G3 G2 D4 D3 A3 A3 D4 D4 (WIP)
+	Bouzouki, Irish (Irish) G3 G2 D4 D3 A3 A3 D4 D4 (DONE)
+	Bouzouki, Irish (Modal D) A3 A2 D4 D3 A3 A3 D4 D4 (WIP)
 	Bouzouki, Irish (Modal D) A3 A2 D4 D3 A3 A3 D4 D4
 
 Version 15 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
