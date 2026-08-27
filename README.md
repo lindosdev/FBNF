@@ -10,10 +10,6 @@ Fretboard Notes & Frequencies
 	Starting with V14, there will be folders for files with Windows, *nix/modern Mac
 	and classic Mac line endings. There will also be a folder for DOS-formatted files.
 	The DOS folder will not be up-to-date with the rest.
-	
-	There will also be small changes made to reduce file size and make the charts 
-	easier to read.
-	/* Eliminate spaces between string numbers and notes */
 
 Version 14 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 
@@ -24,8 +20,8 @@ Version 14 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	Bouzouki, 8 string C3 C4 F3 F4 A3 A3 D4 D4 (DONE)
 	Bouzouki, Irish (Standard/Common) G3 G2 D4 D3 A3 A3 E4 E4 (DONE)
 	Bouzouki, Irish (Irish) G3 G2 D4 D3 A3 A3 D4 D4 (DONE)
-	Bouzouki, Irish (Modal D) A3 A2 D4 D3 A3 A3 D4 D4 (done)
-	Bouzouki, Irish (Modal D) A3 A2 D4 D3 A3 A3 D4 D4 (WIP)
+	Bouzouki, Irish (Modal D) A3 A2 D4 D3 A3 A3 D4 D4 (DONE)
+	Work is being done to prepare V14 for release.
 
 Version 15 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	
