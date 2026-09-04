@@ -7,10 +7,11 @@ Fretboard Notes & Frequencies
      Program Development has stopped for a while. I will be focusing on the book for
      the forseeable future.
 
-	Starting with V14, there will be folders for files with Windows, *nix/modern Mac
-	and classic Mac line endings. There will also be a folder for DOS-formatted files.
-	The DOS folder will not be up-to-date with the rest.
+Version 14.5 (BOOK)
 
+	Bring DOS files up to date with the other OSes. This will
+	only include files of 80 columns or less.
+	
 Version 15 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	
 	Banjo, Plectrum C3 G3 B3 D
@@ -21,6 +22,15 @@ Version 15 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	Brac, 5 string (Alternate) (F#3 B3 E4 A4 A4
 	Brac, 6 string G3 G3 D4 D4 A4 A4
 
+Version 16 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+
+	Braguinha D4 G4 B4 D5
+	Bugarija, 5 string (Standard/common) G2•B2•D3•G3 G3
+	Bugarija, 5 string (Alternative 1) D2•F♯2•A2•D3 D3
+	Bugarija, 5 string (Alternative 2) E2•G♯2•B2•E3 E3
+	Bugarija, 6 string (Standard/common) G2•B2•D3 D3•G3 G3
+	Bugarija, 6 string (Alternative 1) D2•F♯2•A2 A2•D3 D3
+	Bugarija, 6 string (Alternative 2) E2•G♯2•B2 B2•E3 E3
 
 Attribution-NonCommercial 4.0 International
 
