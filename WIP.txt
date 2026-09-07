@@ -1,1 +1,37 @@
+Fretboard Notes and Frequencies
 
+    Copyright (c)  2010-2026 by Gary J. Teixeira Jr.
+    Permission is granted to copy. distribute and/or modify this document
+    under the terms of the Attribution-NonCommercial 4.0 International License
+
+    This book is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+NOTE: In this book/program 440hz is A6, not A4
+
+Banjo, Plectrum C3 G3 B3 D (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+
+Standard Tuning
+    1               2               3               4
+
+0   XX   XX         XX  XX          XX  XX          XX  XX
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
