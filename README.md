@@ -6,11 +6,6 @@ Fretboard Notes & Frequencies
      
      Program Development has stopped for a while. I will be focusing on the book for
      the forseeable future.
-
-Version 14.5 (BOOK)
-
-	Bring DOS files up to date with the other OSes. This will
-	only include files of 80 columns or less.
 	
 Version 15 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	
