@@ -10,12 +10,12 @@ Fretboard Notes and Frequencies
 
 NOTE: In this book/program 440hz is A6, not A4
 
-Banjo, Plectrum (Chicago Tuning) D3 G3 B3 E4 (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+Banjo, Plectrum (Chicago Tuning)
 
 Standard Tuning
 S   1               2               3               4
 
-0   XX   XX         XX   XX         XX   XX         XX   XX
+0   D4   146.8324   G4   195.9977   B5   246.9417   E5   329.6276
 1
 2
 3
@@ -35,4 +35,3 @@ S   1               2               3               4
 17
 18
 19
-
