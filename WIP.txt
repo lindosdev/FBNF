@@ -11,13 +11,14 @@ Fretboard Notes and Frequencies
 NOTE: In this book/program 440hz is A6, not A4
 
 Baryton (Bowed rank)
+NOTE: Due to a lack of information, the number of frets is approximate.
 
 Standard Tuning
 S   1               2               3               4               5               6               7
 
 0   A3   55         D3   73.41619   G4   195.9977   C4   138.5913   E4   164.8138   A5   220         D5   293.6648
-1
-2
+1   Bb3  58.27047   D#3  77.78175   G#4  207.6523   C#4  146.8324   F4   174.6141   Bb5  233.0819    D#4  311.217
+2   B3   61.73541   E3   82.40689   A5   220        D4   155.5635   F#4  184.9972   B5   246.9417    E4   329.6276
 3
 4
 5
