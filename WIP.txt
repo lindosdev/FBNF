@@ -10,12 +10,12 @@ Fretboard Notes and Frequencies
 
 NOTE: In this book/program 440hz is A6, not A4
 
-Baryton (Bowed rank) A1 D2 G3 C3 E3 A3 D4 (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+Baryton (Bowed rank)
 
 Standard Tuning
 S   1               2               3               4               5               6               7
 
-0   XX   XX         XX   XX         XX   XX         XX   XX         XX   XX         XX   XX         XX   XX
+0   A3   55         D3   73.41619   G4   195.9977   C4   138.5913   E4   164.8138   A5   220         D5   293.6648
 1
 2
 3
