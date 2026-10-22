@@ -1,5 +1,3 @@
-# FBNF
-
 Fretboard Notes & Frequencies
 
      DEVELOPMENT ROADMAP
@@ -9,10 +7,13 @@ Fretboard Notes & Frequencies
 	
 Version 15 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	
+	TODO: Delete Classic Mac files with over 52 characters per line.
+	TODO: Verify DOS files in RHIDE.
+	
 	Banjo, Plectrum C3 G3 B3 D (DONE)
 	Banjo, Plectrum (Chicago Tuning) D3 G3 B3 E4 (DONE)
-	Baryton (Bowed rank) A1 D2 G3 C3 E3 A3 D4 (WIP)
-	Baryton (Plucked rank) A2 D3 E3 F#3 G3 A3 B3 C#3 D4 E4
+	Baryton (Bowed rank) A1 D2 G3 C3 E3 A3 D4 (DONE)
+	Baryton (Plucked rank) A2 D3 E3 F#3 G3 A3 B3 C#3 D4 E4 (WIP)
 	Brac, 5 string (Standard/Common) E3 A3 D4 G4 G4
 	Brac, 5 string (Alternate) (F#3 B3 E4 A4 A4
 	Brac, 6 string G3 G3 D4 D4 A4 A4
@@ -26,6 +27,7 @@ Version 16 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	Bugarija, 6 string (Standard/common) G2•B2•D3 D3•G3 G3
 	Bugarija, 6 string (Alternative 1) D2•F♯2•A2 A2•D3 D3
 	Bugarija, 6 string (Alternative 2) E2•G♯2•B2 B2•E3 E3
+
 
 Attribution-NonCommercial 4.0 International
 
