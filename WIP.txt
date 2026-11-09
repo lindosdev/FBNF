@@ -10,15 +10,15 @@ Fretboard Notes and Frequencies
 
 NOTE: In this book/program 440hz is A6, not A4
 
-Brac, 5 string (Standard/Common) E3 A3 D4 G4 G4 (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
+Brac, 5 string (Standard/Common)
 
 STANDARD TUNING
 
 S   1               2               3               4               5
 
-0   XX   XX         XX   XX         XX   XX         XX   XX         XX   XX
-1
-2
+0   E4   164.8138   A5   220        D5   293.6648   G5   391.9954   G5   391.9954
+1   F4   174.6141   Bb5  233.0819   D#5  311.217    G#5  415.3047   G#5  415.3047
+2   F#4  184.9972   B5   246.9417   E5   329.6276   A6   440        A6   440
 3
 4
 5
@@ -41,4 +41,3 @@ S   1               2               3               4               5
 22
 23
 24
-
