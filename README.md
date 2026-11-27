@@ -4,7 +4,17 @@ Fretboard Notes & Frequencies
      
      Program Development has stopped for a while. I will be focusing on the book for
      the forseeable future.
-	
+
+Average file size: 170KB
+
+Total Tunings (approximate):
+A:	10	F:	9	K:	21	P:	14	U:	13	Z:	13
+B:	73  G:	61	L:	23	Q:	2	V:	27	
+C:	61  H:	19	M:	17	R:	32	W:	10
+D:	54  I:	5	N:	3	S:	25	X:	3
+E:	2	J:	9	O:	13	T:	25	Y:	3
+TOTAL: 547
+
 Version 15 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	
 	TODO: Delete Classic Mac files with over 52 characters per line.
@@ -27,6 +37,7 @@ Version 16 (BOOK) (TUNINGS NOT YET CONVERTED TO REFERENCE CHART)
 	Bugarija, 6 string (Standard/common) G2•B2•D3 D3•G3 G3
 	Bugarija, 6 string (Alternative 1) D2•F♯2•A2 A2•D3 D3
 	Bugarija, 6 string (Alternative 2) E2•G♯2•B2 B2•E3 E3
+
 
 
 Attribution-NonCommercial 4.0 International
